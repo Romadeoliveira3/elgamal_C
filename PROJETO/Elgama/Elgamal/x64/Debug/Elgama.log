@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\PLAYGROUND\21_-_C\GMP\vcpkg\installed\x64-windows\include\gmp.h(1792,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+  (compiling source file '../../../../../../../../../#Engenharia_eletronica/#UFPE/2024-2_-_Engenharia_Eletronica/ES478 - MATEMÁTICA DISCRETA - 60h/PROJETOS/01/Implementação Eficiente do Criptossistema ElGamal em C/PROJETO/Elgama/main.cpp')
+  
+D:\#Engenharia_eletronica\#UFPE\2024-2_-_Engenharia_Eletronica\ES478 - MATEMÁTICA DISCRETA - 60h\PROJETOS\01\Implementação Eficiente do Criptossistema ElGamal em C\PROJETO\Elgama\main.cpp(36,22): warning C4566: character represented by universal-character-name '\u2264' cannot be represented in the current code page (1252)
+  Elgama.vcxproj -> D:\#Engenharia_eletronica\#UFPE\2024-2_-_Engenharia_Eletronica\ES478 - MATEMÁTICA DISCRETA - 60h\PROJETOS\01\Implementação Eficiente do Criptossistema ElGamal em C\PROJETO\Elgama\x64\Debug\Elgamal.exe
